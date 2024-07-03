@@ -1,20 +1,52 @@
 # RESOURCES
 
-
-## DOMAIN/SUBDOMAIN ENUMERATION
+# - TOOLS
+## + DOMAIN/SUBDOMAIN ENUMERATION
 ### subfinder
 ### amass
+### assetfinder
+### findomain
 ### sublister
+### ffuf
+### altdns
+    generates alternative domain names by doing permutations of a given list of words
 
+    NahamSec uses shuffledns to validate the domains, but I think httpx could also work
+
+## + HTTP tools
 ### httpx
 https://github.com/projectdiscovery/httpx
     
-## HASH
+## + HASH
 https://crackstation.net/
 
+## + VULNERABILITY SCANNER
+### nuclei
+
 
 <br />
 <br />
+
+# - CHECKLISTS
+### My checklists
+    TO DO:
+
+    OWASP top 10 vulnerabilities
+    - IDOR
+    - XXS
+    - SQLi
+    - Authentication
+    
+### links
+    https://github.com/crackallcode/Bug-Bounty-Checklist
+    
+    https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#authentication
+
+    https://github.com/KathanP19/HowToHunt/tree/master
+
+    https://gowthams.gitbook.io/bughunter-handbook/checklists
+
+
 
 # READING MATERIALS
 ### Recon
