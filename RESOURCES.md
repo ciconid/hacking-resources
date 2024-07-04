@@ -15,6 +15,13 @@
 
 ## + HTTP tools
 ### httpx
+    Useful flags:
+        -sc, -status-code
+        -cl, -content-length
+        -title
+        -td, -tech-detect
+
+
 https://github.com/projectdiscovery/httpx
     
 ## + HASH
