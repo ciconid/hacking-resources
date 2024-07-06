@@ -15,6 +15,8 @@
 
 ## + HTTP tools
 ### httpx
+https://github.com/projectdiscovery/httpx
+
     Useful flags:
         -sc, -status-code
         -cl, -content-length
@@ -22,7 +24,15 @@
         -td, -tech-detect
 
 
-https://github.com/projectdiscovery/httpx
+
+
+## + Content Discovery / Directory Bruteforcing
+	
+	feroxbuster
+	dirbust
+	gobuster
+	ffuf
+
     
 ## + HASH
 https://crackstation.net/
