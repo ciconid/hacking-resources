@@ -15,7 +15,7 @@
 
 ## + HTTP tools
 ### httpx
-https://github.com/projectdiscovery/httpx
+[github.com/projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
 
     Useful flags:
         -sc, -status-code
@@ -40,6 +40,8 @@ https://crackstation.net/
 ## + VULNERABILITY SCANNER
 ### nuclei
 
+### katana
+
 
 <br />
 <br />
@@ -55,13 +57,13 @@ https://crackstation.net/
     - Authentication
     
 ### links
-    https://github.com/crackallcode/Bug-Bounty-Checklist
-    
-    https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#authentication
+https://github.com/crackallcode/Bug-Bounty-Checklist
 
-    https://github.com/KathanP19/HowToHunt/tree/master
+https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#authentication
 
-    https://gowthams.gitbook.io/bughunter-handbook/checklists
+https://github.com/KathanP19/HowToHunt/tree/master
+
+https://gowthams.gitbook.io/bughunter-handbook/checklists
 
 
 
