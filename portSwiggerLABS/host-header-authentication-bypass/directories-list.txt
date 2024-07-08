@@ -1,0 +1,5 @@
+admin
+Admin
+Login
+logout
+analytics

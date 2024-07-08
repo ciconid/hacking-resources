@@ -1,0 +1,10 @@
+found directories:
+    /admin
+        I found /admin using ffuf but it was also possible to find it
+        by opening /robots.txt
+
+
+changed 
+    Host: 0af2008904d66a0080667b5a008c00f5.web-security-academy.net
+to  
+    Host: localhost

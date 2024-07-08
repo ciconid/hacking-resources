@@ -1,0 +1,6 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile,Ffufhash
+Admin,https://0af2008904d66a0080667b5a008c00f5.web-security-academy.net/Admin,,2,401,5618,1850,85,text/html; charset=utf-8,251.695494ms,,950e42
+logout,https://0af2008904d66a0080667b5a008c00f5.web-security-academy.net/logout,/,4,302,0,1,1,,237.995513ms,,950e44
+Login,https://0af2008904d66a0080667b5a008c00f5.web-security-academy.net/Login,,3,200,6211,2119,95,text/html; charset=utf-8,267.469796ms,,950e43
+admin,https://0af2008904d66a0080667b5a008c00f5.web-security-academy.net/admin,,1,401,5618,1850,85,text/html; charset=utf-8,277.368254ms,,950e41
+analytics,https://0af2008904d66a0080667b5a008c00f5.web-security-academy.net/analytics,,5,200,0,1,1,,5.000074918s,,950e45

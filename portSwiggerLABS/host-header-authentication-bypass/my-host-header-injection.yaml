@@ -1,0 +1,27 @@
+id: shumai
+
+info:
+  name: My Host Header Injection
+  author: CicoNid
+  severity: critical
+  description: HTTP header injection
+  
+
+http:
+  - raw:
+    - |
+      GET /admin HTTP/2
+      Host: jkldjs
+
+  #- method: GET
+   # path:
+    #  - "{{BaseURL}}/admin"
+
+    #headers:
+     # Host: "shamouna"
+
+
+    matchers:
+      - type: dsl
+        dsl:
+          - "status_code==200"
